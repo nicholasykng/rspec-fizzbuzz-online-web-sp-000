@@ -5,5 +5,7 @@ def fizzbuzz(int)
     "Buzz"
   elsif int % 3 || 5 == 0
     "Fizzbuzz"
+  else 
+    "nil"
   end
 end
